@@ -26,5 +26,6 @@ class UdpServer
 
 		}
 	}
+	/*first run the server program and then the client program in another terminal*/
 
 }
