@@ -23,3 +23,19 @@ class UdpClient
 		}
 	}
 }
+     
+/*output;-
+  first run the server program in one terminal in another terminal run the client program
+Server side
+javac UDPServer.java
+java UDPServer
+Server is Ready for the client
+RECEIVED: abcdef
+
+Client Side
+javac UDPClient.java
+java UDPClient
+Enter the string in lowercase so that you receive the message in Uppercase from the server
+abcdef
+FROM SERVER: ABCDEF
+*/
