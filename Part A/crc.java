@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class RSA {
+public class CRC{
 
     private static final int PRIVATE_KEY = 35;
     private static final int PUBLIC_KEY = 11;
